@@ -13,8 +13,12 @@
 ![Relation2](documents/Relation2.PNG "Relation2")
 
 ## Tables
-
 ![Tables](documents/tables.PNG "Tables")
+
+## Migrations - Flyway
+Une première migration crée les tables et une deuxième insert les données.
+
+![Migrations](documents/migration.PNG "Migrations")
 
 ## Fonctionnalités disponibles
 
