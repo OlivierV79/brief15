@@ -40,7 +40,6 @@ public class EmpruntService {
 
         Livre livre = emprunt.getLivre();
         livre.setDisponible(false);
-
         livreRepository.save(livre);
 
         return empruntRepository.save(empruntNouvel);
@@ -54,7 +53,6 @@ public class EmpruntService {
 
             Livre livre = emprunt.getLivre();
             livre.setDisponible(true);
-
             livreRepository.save(livre);
 
             return empruntRepository.save(emprunt);
