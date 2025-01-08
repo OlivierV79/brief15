@@ -24,7 +24,7 @@ Une première migration crée les tables et une deuxième insert les données.
 
 Un certain nombre de fonctionnalités classiques telles que "creation genre" sont présentes.
 
-Les fonctionnalités "Creation emprum" et "Retour emprumt" sont celles qui mérite le plus d'attention.
+Les fonctionnalités "Creation emprumt" et "Retour emprunt" sont celles qui méritent le plus d'attention.
 
 Creation emprumt
 ![Creation emprumt](documents/creation_emprunt.PNG "Creation emprumt")
