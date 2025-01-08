@@ -14,7 +14,7 @@
 
 ## Tables
 
-![Tables](documents/Tables.PNG "Tables")
+![Tables](documents/tables.PNG "Tables")
 
 ## Fonctionnalités disponibles
 
